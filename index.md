@@ -1,6 +1,6 @@
 <div style="background-color: #1e1e1e; color: #ffffff; padding: 10px; border-radius: 5px;">
   
-// ### План по установке и настройке:
+//### План по установке и настройке:
  
 - Получение образа Windows 11;
 - Создание загрузочной флешки;
